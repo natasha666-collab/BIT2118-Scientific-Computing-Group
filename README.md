@@ -6,7 +6,7 @@ Welcome to our BIT 2118 Scientific Computing group workspace.
 
 This repository contains the group's Python programs, numerical computations, results, graphs, explanations, and real-world applications for Tasks 2–20.
 
-Group Members
+Group Members:
 
 1. Natasha
 2. Kingori
