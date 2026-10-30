@@ -1,4 +1,4 @@
-#BIT 2118: SCIENTIFIC COMPUTING
+#BIT 2118: SCIENTIFIC COMPUTING GROUP 
 
 Group Project Repository
 
@@ -40,4 +40,4 @@ Tasks
 
 Tasks 2–20 are covered in this project.
 
-Course: BIT 2118 – Scientific Computing BIT2118-Scientific-Computing-Group
+Course: BIT 2118 – Scientific Computing
